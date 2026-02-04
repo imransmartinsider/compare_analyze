@@ -1,6 +1,6 @@
-# DocGenius – Intelligent Document & Image Analysis 🧠📄🖼️
+# Compare_analyze – Intelligent Document & Image Analysis 🧠📄🖼️
 
-DocGenius is a Streamlit-based AI application that allows you to **analyze, compare, and reason about PDFs and images** using Google Gemini models.
+Compare_analyze is a Streamlit-based AI application that allows you to **analyze, compare, and reason about PDFs and images** using Google Gemini models.
 
 It is designed to be **trust-focused**, **explainable**, and **human-friendly**, not just a chat tool.
 
@@ -38,7 +38,7 @@ It is designed to be **trust-focused**, **explainable**, and **human-friendly**,
 
 ---
 
-## 🧠 Why DocGenius is Different
+## 🧠 Why Compare_analyze is Different
 
 - Focuses on **explainability and trust**
 - Shows *why* an answer is correct
